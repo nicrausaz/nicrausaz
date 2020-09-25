@@ -3,7 +3,7 @@
 <em>
 I am a Software Engineering student at <a href="https://heig-vd.ch/"><b>HEIG-VD</b></a>.
 
-During my four year apprenticeship at <a href="https://epfl.ch/"><b>EPFL, Switzerland</b></a>, I became passionate by about dev and new technologies. 
+During my four year apprenticeship at <a href="https://epfl.ch/"><b>EPFL</b></a>, I became passionate by about dev and new technologies. 
 
 Vue.js fan
 </em>
