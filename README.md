@@ -27,4 +27,6 @@ Vue.js fan
   <br/>
   <br/>
   <a href="https://crausaz.click"> My personnal website<br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicrausaz&layout=compact&theme=dark" alt="Top Languages">
 </p>
