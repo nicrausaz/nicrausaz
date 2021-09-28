@@ -14,7 +14,7 @@ Vue.js fan
 </p>  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicrausaz&hide=css,%20html,scss" alt="Top Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicrausaz&hide=css,%20html,scss&theme=dark" alt="Top Languages">
 </p>
 
 <div align="center">
