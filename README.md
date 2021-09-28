@@ -13,6 +13,10 @@ Vue.js fan
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicrausaz&&show_icons=true&theme=dark" alt="nicrausaz's Github Stats">
 </p>  
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicrausaz&hide=css,%20html,scss" alt="Top Languages">
+</p>
+
 <div align="center">
   <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -27,6 +31,4 @@ Vue.js fan
   <br/>
   <br/>
   <a href="https://crausaz.click"> My personnal website<br/>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicrausaz&layout=compact&theme=dark" alt="Top Languages">
 </p>
