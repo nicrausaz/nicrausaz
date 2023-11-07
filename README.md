@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="250px">
   <br><br>
   <samp>
-    I'm <b>Nicolas Crausaz</b>. a Software Engineering student at <a href="https://heig-vd.ch/"><b>HEIG-VD</b></a>.
+    I'm <b>Nicolas Crausaz</b>. a Software Engineer graduated from <a href="https://heig-vd.ch/"><b>HEIG-VD</b></a>.
   </samp>
 </p>
   <div align="center">
